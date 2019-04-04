@@ -1,0 +1,14 @@
+textarea#description{
+    resize: none;
+    height: 150px;
+}
+
+.question_panel{
+
+}
+
+.question_panel_body{
+    overflow-y: scroll;
+    min-height: 200px;
+    max-height: 700px;
+}
